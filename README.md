@@ -1,4 +1,4 @@
-# StudyCore
+# StudyCore V2
 
 StudyCore is an AI-powered study companion that turns course PDFs into topic summaries, practice questions, YouTube resources, and interactive PhET simulations.
 
